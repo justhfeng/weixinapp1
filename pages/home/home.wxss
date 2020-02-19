@@ -1,0 +1,9 @@
+/* pages/home/home.wxss */
+.btn1 {
+ font-size: 30px;
+}
+
+.title {
+  font-size: 50px;
+  color: blue;
+}
